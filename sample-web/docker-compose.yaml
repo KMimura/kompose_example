@@ -1,0 +1,8 @@
+version: "3.0"
+
+services:
+  sample-api:
+    image: sample-api:v1
+    build: .
+    ports:
+      - 80:80

@@ -1,1 +1,2 @@
 # kompose_example
+komposeを用いてkubernates移行をするサンプルアプリ
